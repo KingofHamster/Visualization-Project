@@ -2,10 +2,10 @@
 
 1. Group Members:    
 
-Yang Zhecan: Part 1  
-Tang Shaowei: Part 2  
-Guo Hang: Part 3  
-Zhao Weiyi: Part 4  
+   Yang Zhecan: Part 1  
+   Tang Shaowei: Part 2  
+   Guo Hang: Part 3  
+   Zhao Weiyi: Part 4  
 
 2. index.html, which is for accessing the complete work.   
 3. video.mp4, in which our groupmates introduce the highlights of our project.  
